@@ -1,7 +1,7 @@
 # SuperMarket Dashboard - Plotly Dash App
 
  file:///home/elvis/Videos/Screencasts/Screencast%20from%2001-05-2023%2008_16_17%20PM.mp4
-
+0:-26:746:44
 
 <h2>Description</h2>
 Customer segmentation is the process of dividing a broad consumer or business market, normally consisting of existing and potential customers, into sub-groups up based on common characteristics – such as demographics or behaviors, so your marketing team or sales team can reach out to those customers more effectively.
