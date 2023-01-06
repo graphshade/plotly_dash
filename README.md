@@ -11,7 +11,7 @@ In this project, I used plotly to build a simple dashboard with the famous Table
 - Python
 - [List of packages](https://github.com/graphshade/plotly_dash/blob/master/requirements.txt)
 
-<h2>Environments Used </h2>
+<h2>Environment Used </h2>
 
 - <b>Ubuntu 20.04.1 LTS</b>
 
