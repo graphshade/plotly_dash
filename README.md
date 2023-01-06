@@ -13,7 +13,7 @@ In this project, I used plotly to build a simple dashboard with the famous Table
 
 <h2>Environments Used </h2>
 
-- <b>Ubuntu 20.04.1 LTS</b> (21H2)
+- <b>Ubuntu 20.04.1 LTS</b>
 
 <h2>Program walk-through:</h2>
 
