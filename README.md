@@ -6,10 +6,10 @@ Plotly’s Dash enables Data Science teams to focus on the data and models, whil
 <br></br>
 In this project, I used plotly to build a simple dashboard with the famous Tableau SuperStore.
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and Packages Used</h2>
 
 - Python
-- [List of package](https://github.com/graphshade/plotly_dash/blob/master/requirements.txt)
+- [List of packages](https://github.com/graphshade/plotly_dash/blob/master/requirements.txt)
 
 <h2>Environments Used </h2>
 
